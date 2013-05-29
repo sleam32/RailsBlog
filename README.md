@@ -26,6 +26,8 @@ Features
 5. Anonymous user should be able to comment on articles.
 6. Anonymous user should be able to reply to articles.
 7. Anonymous user should be able to post articles.
+8. Authors can upload media.
+9. Authors can use media in their posts.
 
 
 
